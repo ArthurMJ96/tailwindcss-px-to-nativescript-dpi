@@ -3,7 +3,11 @@
   "type": "module",
   "version": "1.0.0",
   "description": "A Tailwind CSS plugin automatically converts all PX units to just integers without units in your Tailwind styles. NativeScript projects see unit-less values as DPI units.",
-  "author": "",
+  "author": "ArthurMJ96",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArthurMJ96/tailwindcss-px-to-nativescript-dpi.git"
+  },
   "license": "MIT",
   "keywords": [
     "px to ns-dpi unit",
